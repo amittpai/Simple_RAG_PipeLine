@@ -1,0 +1,6 @@
+chromadb
+openai
+dotenv
+langchain_community
+lanchain_text_splitters
+pypdf
